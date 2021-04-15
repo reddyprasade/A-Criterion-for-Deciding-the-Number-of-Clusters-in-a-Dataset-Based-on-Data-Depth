@@ -1,3 +1,10 @@
 # A-Criterion-for-Deciding-the-Number-of-Clusters-in-a-Dataset-Based-on-Data-Depth
 This paper proposes a novel idea for ¯nding the correct number of groups in a dataset based on data depth. The idea is to avoid the traditional process of running the clustering algorithm over a dataset for ffiffiffi n p times and further, ¯nding the k value for a dataset without setting any speci¯c search range for k parameter. We experiment with di®erent indices, namely CH, KL, Silhouette, Gap, CSP and the proposed method on di®erent real and synthetic datasets to estimate the correct number of groups in a dataset. The experimental results on real and synthetic datasets indicate good performance of the proposed method.
 **Keywords:** Data depth; depth median; within-cluster depth; between-cluster depth; optimal k. Calinski and Harabasz (CH) Index,Calinski Harabasz Index,Davies Bouldin Index, Elbow Method, Estimating the Optimal Number of Clusters k in a D,Gap Statistic,Mahalanobis depth,Silhouette Coefficient,Silhouette Index
+![](https://github.com/reddyprasade/A-Criterion-for-Deciding-the-Number-of-Clusters-in-a-Dataset-Based-on-Data-Depth/blob/main/Img/Calinski_Harabasz_Index.png)
+![](https://github.com/reddyprasade/A-Criterion-for-Deciding-the-Number-of-Clusters-in-a-Dataset-Based-on-Data-Depth/blob/main/Img/Davies%20Bouldin%20Index.png)
+![](https://github.com/reddyprasade/A-Criterion-for-Deciding-the-Number-of-Clusters-in-a-Dataset-Based-on-Data-Depth/blob/main/Img/Elbow%20Method.png)
+![](https://github.com/reddyprasade/A-Criterion-for-Deciding-the-Number-of-Clusters-in-a-Dataset-Based-on-Data-Depth/blob/main/Img/Estimating_the_Optimal_Number_of_Clusters_k_in_a_D%20(1).pdf)
+![](https://github.com/reddyprasade/A-Criterion-for-Deciding-the-Number-of-Clusters-in-a-Dataset-Based-on-Data-Depth/blob/main/Img/Gap%20Statistic.png)
+![](https://github.com/reddyprasade/A-Criterion-for-Deciding-the-Number-of-Clusters-in-a-Dataset-Based-on-Data-Depth/blob/main/Img/Silhouette%20Coefficient.png)
+
